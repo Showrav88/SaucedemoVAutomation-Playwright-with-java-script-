@@ -67,7 +67,7 @@ SaucedemoV/
    
 ```bash
 git clone https://github.com/Showrav88/SaucedemoVAutomation-Playwright-with-java-script-.git
-cd SaucedemoVAutomation-Playwright-with-java-script-
+cd SaucedemoV
 
 ```
 2. Install dependencies
@@ -120,5 +120,6 @@ Reports available here:
 ##7️⃣Contact / Author
 
 Author: Showrav Karmakar
+
 
 
